@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e1fdd031816090747b8e26c72e54364c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PauseMenuPanel2: {instanceID: 0}
+  - Kulsok2: {instanceID: 0}
+  - Options2: {instanceID: 0}
+  - Spaces2: {instanceID: 0}
+  - MoneyLocation2: {instanceID: 0}
+  - PauseButtonImageLocation2: {instanceID: 0}
+  - GameOverPanel2: {instanceID: 0}
+  - ShopArrowButton2: {instanceID: 0}
+  - MoneyText2: {instanceID: 0}
+  - X2: {instanceID: 0}
+  - Enemy2: {instanceID: 0}
+  - Start2: {instanceID: 0}
+  - GameOverCanvas2: {instanceID: 0}
+  - TowerArrow2: {fileID: 3880333325178601169, guid: 4ce5388d49d20e14aa4bb0c2b2bf789a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
